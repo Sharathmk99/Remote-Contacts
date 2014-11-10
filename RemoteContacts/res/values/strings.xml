@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Remote Contacts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_drawer">Open</string>
+	<string name="close_drawer">Close</string>
+	<string name="banner_ad_unit_id">a15345996225572</string>
+	<string name="googleanalytics">UA-44995811-13</string>
+	<string name="revmob">5345ac15276a74dd28232969</string>
+
+</resources>
